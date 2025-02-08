@@ -130,3 +130,11 @@ for i in range(n):
         print_diamond(size)
         print_heart()
         print_butterfly(4)
+
+
+#assignment 11
+
+number = int(input("Enter a number: "))
+for i in range(1, number):
+    if number % 2 == 0:
+        print(i)
