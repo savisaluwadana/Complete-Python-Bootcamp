@@ -22,3 +22,7 @@ fruits.append("kiwi")
 
 #insert() - adds an element at the specified position
 fruits.insert(1, "watermelon")
+
+fruits.remove("banana")
+#removes the first occurence of the element with the specified value
+
